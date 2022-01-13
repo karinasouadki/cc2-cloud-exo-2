@@ -1,0 +1,7 @@
+{
+  "root": "./public",
+  "error_page": "misc/error.html",
+  "routes": {
+    "/": "newindex.html"
+  }
+}
